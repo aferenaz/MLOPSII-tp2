@@ -1,7 +1,5 @@
 ## Mini-TP 2 — Metadatos del modelo con GraphQL
 
-Notebook: [`mini-tp2/mini_tp2.ipynb`](mini-tp2/mini_tp2.ipynb)
-
 Expuse los metadatos de mi modelo (clasificador de tumores cerebrales en MRI, `tensorflow-keras` con
 backbone EfficientNetB0; métricas AUC, accuracy y F1) con GraphQL (Strawberry + FastAPI) y los
 comparé contra un endpoint REST que sirve el mismo modelo.
