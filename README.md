@@ -1,0 +1,1 @@
+**Mini-TP 2 (GraphQL vs REST):** para armar la vista del modelo, GraphQL trajo 87 B en 1 llamada y REST 454 B (5.2x más, por sobre-fetch); para modelo + linaje, GraphQL sigue en 1 llamada y REST necesita 2.
